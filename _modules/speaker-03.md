@@ -1,9 +1,9 @@
 ---
-title: October 25, 11am - 12pm
+title: April 27, 11am - 12pm
 ---
 
 Speaker
-: Erin Schliep
-  : [Speaker website](https://statistics.sciences.ncsu.edu/people/erin-schliep/)
+: Emily Griffith
+  : [Speaker website](https://sites.google.com/ncsu.edu/emilyhgriffith/)
   
-: Carswell 101
+: Manchester 121

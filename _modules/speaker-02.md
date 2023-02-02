@@ -1,9 +1,9 @@
 ---
-title: October 11, 11am - 12pm
+title: April 4, 11am - 12pm
 ---
 
 Speaker
-: Jaime Speiser
-  : [Speaker website](https://school.wakehealth.edu/faculty/s/jaime-lynn-speiser)
+: Sean L. Simpson
+  : [Speaker website](https://school.wakehealth.edu/faculty/s/sean-l-simpson)
   
-: Carswell 101
+: DRS 302

@@ -1,9 +1,9 @@
 ---
-title: September 26, 12pm - 1pm
+title: February 23, 11am - 12pm
 ---
 
 Speaker
-: Mine Cetinkaya-Rundel
-  : [Speaker website](https://mine-cr.com/), [Schedule](https://docs.google.com/spreadsheets/d/1aMqm-qRou9mr-e_osbhlFlE0IMDSipTTUe94J2KFbKI/edit?usp=sharing)
+: Tanya P. Garcia
+  : [Speaker website](https://sph.unc.edu/adv_profile/tanya-garcia/)
 
-: Kirby 120
+: DRS 302
